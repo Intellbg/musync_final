@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Musync | Login</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/login.css">
+    <link rel="icon" type="image/x-icon" href="./favicon.png">
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+
+<body>
+    <nav class="navbar fixed-top  navbar-expand-lg ">
+        <div class="container-fluid justify-content-center">
+            <a class="navbar-brand text-white" href="/">
+                <h1>Musync</h1>
+            </a>
+        </div>
+    </nav>
+    <main class="d-flex align-items-center h-100">
+        <div class="login_div d-flex align-items-center ">
+            <h1>Inicia sesión</h1>
+            <form>
+                <div class="form-group">
+                    <label for="email">Email o nombre del usuario</label>
+                    <input type="text" class="form-control" id="email" aria-describedby="emailHelp"
+                        placeholder="Email o nombre del usuario" required>
+                </div>
+                <div class="form-group">
+                    <label for="password">Contraseña</label>
+                    <input type="password" class="form-control" id="password" placeholder="" required>
+                </div>
+
+                <div class="alert alert-danger" role="alert" id="loginError" hidden></div>
+
+                <button type="submit" class="btn btn-primary text-center w-100" id="login_button">Iniciar
+                    Sesión</button>
+                <div class="text-center">
+                    <br>
+                    <a class="form" data-bs-toggle="modal" data-bs-target="#password_modal">
+                        ¿Has olvidado tu contraseña?
+                    </a>
+                    <p class="muted-text">¿No tienes cuenta?</p>
+                    <a href="./singup.html" class="form">Regístrate en Musync</a>
+                </div>
+            </form>
+        </div>
+    </main>
+
+    <div class="modal modal-xl fade" id="password_modal" tabindex="-1" aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header ">
+                    <h1 class="modal-title  text-center w-100" id="exampleModalLabel">Musync</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="container w-75">
+
+                        <h1 class="text-center">Restablecimiento de contraseña</h1>
+                        <p class="text-xl-left"><strong>
+
+                                Pon tu nombre de usuario de Musync, o la dirección de email que usaste para registrarte.
+                                Te
+                                enviaremos un mensaje con tu nombre de usuario y un enlace para restablecer tu
+                                contraseña.</strong></p>
+
+                        <form action="" class="w-100">
+                            <div class="form-group w-100">
+                                <label for="email_password">Email o nombre del usuario</label>
+                                <input type="email_password" class="form-control w-100" id="email_password"
+                                    aria-describedby="emailHelp" placeholder="Email o nombre del usuario">
+                            </div>
+                        </form>
+                        <div class="text-center">
+                            <div class="alert alert-info" role="alert" id="recover_feedback" hidden></div>
+                            <button type="submit" class="btn btn-primary " id="password_reset_button">Enviar</button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"
+        integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"
+        integrity="sha384-fbbOQedDUMZZ5KreZpsbe1LCZPVmfTnH7ois6mU1QK+m14rQ1l2bGBq41eYeM/fS"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+        crossorigin="anonymous"></script>
+    <script src="js/auth.js"></script>
+    <script src="js/login.js"></script>
+</body>
+
+</html>

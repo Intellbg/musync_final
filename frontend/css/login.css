@@ -1,0 +1,21 @@
+.login_div  a.form{
+    color: #fff;
+    text-decoration: none;
+}
+.login_div .form-control{
+    background-color:#111111 !important;
+    color:#fff !important;
+    border: #000 !important;
+}
+.login_div input.form-control::placeholder {
+    color: #504e4e;
+}
+
+.login_div{
+    background-color: #000;
+    color: white;
+    width: 50%;
+    margin: auto;
+    padding: 2em;
+    flex-direction: column;
+}
