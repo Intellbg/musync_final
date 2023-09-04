@@ -1,0 +1,19 @@
+.singup_div  a.form{
+    color: #169B45;
+    text-decoration: none;
+}
+.singup_div a.form:hover{
+    color: #000;
+}
+
+.singup_div{
+    width: 50%;
+    margin: auto;
+    padding: 2em;
+    flex-direction: column;
+    background-color: #000;
+    color: white;
+    margin-top: 8em;
+
+}
+
