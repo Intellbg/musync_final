@@ -1,0 +1,43 @@
+html,body{
+    height: 100vh;
+}
+
+form{
+    width: 80%;
+}
+
+.muted-text{
+    color: #504E4E;
+}
+.btn{
+    background-color: #169B45 !important;
+    border-color: #169B45 !important;
+}
+
+a.form:hover{
+    color: #169B45;
+}
+
+.form-control{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.form-check{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.form-check-input:checked {
+    background-color: #169B45;
+    border-color: #169B45;
+}
+
+nav{
+    background-color: #000 !important;
+    color: #fff !important;
+}
+
+.solid{
+    background-color: #000;
+}
+
