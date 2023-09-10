@@ -1,0 +1,24 @@
+# Sprint 1 Retrospective
+
+## Agenda
+
+1. Revisión del Sprint
+
+- Objetivo del sprint: Construir una versión inicial funcional de la aplicación web que permita a los usuarios crear, editar y buscar listas de reproducción, así como utilizar un reproductor básico, todo ello con una interfaz amigable.
+
+- ¿Se cumplió el objetivo del sprint?: Sí, se logró construir una versión inicial funcional de la aplicación con las funcionalidades planeadas.
+- ¿Se completaron todas las tareas planificadas?: Sí, se completaron todas las tareas según lo planificado.
+
+2. Lo que fue bien
+
+- Aspectos positivos: El equipo trabajó de forma colaborativa y eficiente, logrando resolver los problemas que surgieron de manera rápida. La interfaz de usuario ha sido elogiada por su diseño intuitivo.
+- Logros del equipo: Completamos todas las tareas del sprint a tiempo y logramos crear una versión inicial funcional de la aplicación.
+
+3. Lo que se puede mejorar
+
+- Áreas de oportunidad: En el futuro, sería beneficioso asignar más tiempo para las pruebas y para abordar los posibles problemas técnicos que puedan surgir.
+- Desafíos enfrentados: Enfrentamos desafíos con la integración del sistema de autenticación con las funcionalidades existentes, lo que requirió tiempo adicional para resolver.
+
+4. Plan de Acción
+
+- Acciones para mejorar en futuros proyectos: Para futuros proyectos, planeamos implementar una estrategia de integración continua/despliegue continuo (CI/CD) para facilitar el desarrollo y la implementación, y también planeamos asignar más tiempo para las pruebas.

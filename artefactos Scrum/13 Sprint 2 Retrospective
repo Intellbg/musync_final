@@ -1,0 +1,24 @@
+# Sprint 2 Retrospective
+
+## Agenda
+
+1. Revisión del Sprint
+
+- Objetivo del sprint: Implementar un sistema de autenticación que permita a los usuarios registrarse, iniciar sesión y acceder a funcionalidades protegidas, asegurando al mismo tiempo que la aplicación esté libre de errores y sea completamente funcional.
+
+- ¿Se cumplió el objetivo del sprint?: Sí, se implementó con éxito el sistema de autenticación y se realizó una serie de pruebas para asegurar la funcionalidad de la aplicación.
+- ¿Se completaron todas las tareas planificadas?: Sí, aunque tuvimos que extender un poco el horario de trabajo para asegurarnos de que todo estuviera funcionando perfectamente.
+
+2. Lo que fue bien
+
+- Aspectos positivos: El equipo trabajó bien bajo presión y fue capaz de completar todas las tareas a tiempo. La implementación de la autenticación fue segura y robusta.
+- Logros del equipo: Implementamos un sistema de autenticación seguro y funcional, y logramos corregir todos los errores encontrados durante las pruebas.
+
+3. Lo que se puede mejorar
+
+- Áreas de oportunidad: En el futuro, sería beneficioso asignar más tiempo para las pruebas y para abordar los posibles problemas técnicos que puedan surgir.
+- Desafíos enfrentados: Enfrentamos desafíos con la integración del sistema de autenticación con las funcionalidades existentes, lo que requirió tiempo adicional para resolver.
+
+4. Plan de Acción
+
+- Acciones para mejorar en futuros proyectos: Para futuros proyectos, planeamos implementar una estrategia de integración continua/despliegue continuo (CI/CD) para facilitar el desarrollo y la implementación, y también planeamos asignar más tiempo para las pruebas.

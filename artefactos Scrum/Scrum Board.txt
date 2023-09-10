@@ -1,0 +1,4 @@
+Se hizo en kanban con la extesión de vscode. 
+Se encuentra dentro de la carpeta .vscode en el 
+archivo vscode-kanban.json. Para ejecutar el board 
+debe aplastar "F1 + kanban".

@@ -1,0 +1,139 @@
+{
+  "todo": [],
+  "in-progress": [],
+  "testing": [],
+  "done": [
+    {
+      "creation_time": "2023-09-10T15:03:54.252Z",
+      "id": "13",
+      "references": [],
+      "title": "Asegurar la integración fluida del reproductor con las listas de reproducción"
+    },
+    {
+      "creation_time": "2023-09-10T15:01:34.770Z",
+      "id": "4",
+      "references": [],
+      "title": "Crear la base de datos para almacenar listas de reproducción"
+    },
+    {
+      "assignedTo": {
+        "name": "rnbp"
+      },
+      "creation_time": "2023-09-10T15:02:29.165Z",
+      "id": "3",
+      "references": [],
+      "title": "Crear páginas de registro e inicio de sesión en el frontend"
+    },
+    {
+      "creation_time": "2023-09-10T15:03:33.126Z",
+      "id": "11",
+      "references": [],
+      "title": "Crear una barra de búsqueda en el frontend"
+    },
+    {
+      "creation_time": "2023-09-10T15:03:07.480Z",
+      "id": "9",
+      "references": [],
+      "title": "Crear una interfaz de usuario para agregar canciones a una lista"
+    },
+    {
+      "creation_time": "2023-09-10T15:02:05.217Z",
+      "id": "6",
+      "references": [],
+      "title": "Crear una interfaz de usuario para la creación de listas"
+    },
+    {
+      "creation_time": "2023-09-10T15:02:41.144Z",
+      "id": "7",
+      "references": [],
+      "title": "Diseñar e implementar una base de datos para almacenar canciones"
+    },
+    {
+      "assignedTo": {
+        "name": "rnbp"
+      },
+      "creation_time": "2023-09-10T15:02:09.093Z",
+      "id": "1",
+      "references": [],
+      "title": "Diseño de la base de datos para almacenar información de usuarios"
+    },
+    {
+      "creation_time": "2023-09-10T15:00:08.886Z",
+      "id": "1",
+      "references": [],
+      "title": "Diseño de wireframes"
+    },
+    {
+      "assignedTo": {
+        "name": "rnbp"
+      },
+      "creation_time": "2023-09-10T15:02:53.133Z",
+      "id": "6",
+      "references": [],
+      "title": "Hacer ajustes basados en los resultados de las pruebas"
+    },
+    {
+      "creation_time": "2023-09-10T15:01:21.690Z",
+      "id": "3",
+      "references": [],
+      "title": "Implementación del diseño en el frontend"
+    },
+    {
+      "assignedTo": {
+        "name": "rnbp"
+      },
+      "creation_time": "2023-09-10T15:02:21.669Z",
+      "id": "2",
+      "references": [],
+      "title": "Implementar el registro y el inicio de sesión en el backend"
+    },
+    {
+      "creation_time": "2023-09-10T15:02:55.083Z",
+      "id": "8",
+      "references": [],
+      "title": "Implementar la funcionalidad de agregar canciones a una lista en el backend"
+    },
+    {
+      "creation_time": "2023-09-10T15:03:20.034Z",
+      "id": "10",
+      "references": [],
+      "title": "Implementar la funcionalidad de búsqueda en el backend"
+    },
+    {
+      "creation_time": "2023-09-10T15:01:46.474Z",
+      "id": "5",
+      "references": [],
+      "title": "Implementar la funcionalidad de crear nuevas listas en el backend"
+    },
+    {
+      "assignedTo": {
+        "name": "rnbp"
+      },
+      "creation_time": "2023-09-10T15:02:37.358Z",
+      "id": "4",
+      "references": [],
+      "title": "Implementar la redirección a la página de inicio de sesión para usuarios no autenticados"
+    },
+    {
+      "creation_time": "2023-09-10T15:03:43.053Z",
+      "id": "12",
+      "references": [],
+      "title": "Implementar un reproductor de música básico en el frontend"
+    },
+    {
+      "assignedTo": {
+        "name": "rnbp"
+      },
+      "creation_time": "2023-09-10T15:02:46.374Z",
+      "id": "5",
+      "references": [],
+      "title": "Realizar pruebas de todas las funcionalidades implementadas"
+    },
+    {
+      "creation_time": "2023-09-10T15:00:35.222Z",
+      "id": "2",
+      "references": [],
+      "title": "Selección de colores y tipografías"
+    }
+  ]
+}
